@@ -1,0 +1,4 @@
+- Hi, I’m @Jakaminsky
+- I’m interested in gaining experience in game development and cyber security
+- I’m currently learning 3d modeling through blender and game development through Unity (C#)
+- Reach me through my email jakaminsky04@gmail.com
